@@ -1,0 +1,3 @@
+tabela zabytkowe samochody
+baza garaż
+po 1 polu tekstowym liczbowym i bool
